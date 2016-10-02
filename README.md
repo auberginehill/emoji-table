@@ -17,7 +17,7 @@ n = 888
     </tr>
     <tr>
         <td style="padding:6px"><strong>Description:</strong></td>
-        <td style="padding:6px">Displays GitHub emojis on a single page.</td>
+        <td style="padding:6px">Displays GitHub emojis on a single page in HTML table format.</td>
     </tr>
     <tr>
         <td style="padding:6px"><strong>Homepage:</strong></td>
