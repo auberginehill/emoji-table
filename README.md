@@ -2,8 +2,6 @@
 ## Emoji Table
 n = 888
 
-Link: http://htmledit.squarefree.com/
-
 <table>
     <tr>
         <td style="padding:6px"><strong>OS:</strong></td>
@@ -23,8 +21,8 @@ Link: http://htmledit.squarefree.com/
     </tr>
     <tr>
         <td style="padding:6px"><strong>Homepage:</strong></td>
-        <td style="padding:6px"><a href="https://github.com/auberginehill/toss-a-coin">https://github.com/auberginehill/toss-a-coin</a>
-            <br />Short URL: <a href="http://tinyurl.com/zugcp5h">http://tinyurl.com/zugcp5h</a></td>
+        <td style="padding:6px"><a href="https://github.com/auberginehill/emoji-table">https://github.com/auberginehill/emoji-table</a>
+            <br />Short URL: <a href="http://tinyurl.com/jegthsx">http://tinyurl.com/jegthsx</a></td>
     </tr>
     <tr>
         <td style="padding:6px"><strong>Version:</strong></td>
@@ -40,7 +38,7 @@ Link: http://htmledit.squarefree.com/
                 </tr>
                 <tr>
                     <td style="padding:6px">Real-time HTML Editor:</td>
-                    <td style="padding:6px"><a href="http://htmledit.squarefree.com/">Coins In Water</a></td>
+                    <td style="padding:6px"><a href="http://htmledit.squarefree.com/">Real-time HTML Editor</a></td>
                 </tr>
             </table>
         </td>
