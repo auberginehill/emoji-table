@@ -1,6 +1,58 @@
 
-## emoji-table
+## Emoji Table
 n = 888
+
+Link: http://htmledit.squarefree.com/
+
+<table>
+    <tr>
+        <td style="padding:6px"><strong>OS:</strong></td>
+        <td style="padding:6px">Not defined</td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Type:</strong></td>
+        <td style="padding:6px">A HTML snippet</td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Language:</strong></td>
+        <td style="padding:6px">HTML</td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Description:</strong></td>
+        <td style="padding:6px">Displays GitHub emojis on a single page.</td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Homepage:</strong></td>
+        <td style="padding:6px"><a href="https://github.com/auberginehill/toss-a-coin">https://github.com/auberginehill/toss-a-coin</a>
+            <br />Short URL: <a href="http://tinyurl.com/zugcp5h">http://tinyurl.com/zugcp5h</a></td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Version:</strong></td>
+        <td style="padding:6px">1.0</td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Sources:</strong></td>
+        <td style="padding:6px">
+            <table>
+                <tr>
+                    <td style="padding:6px">Emojis:</td>
+                    <td style="padding:6px"><a href="https://api.github.com/emojis">https://api.github.com/emojis</a></td>
+                </tr>
+                <tr>
+                    <td style="padding:6px">Real-time HTML Editor:</td>
+                    <td style="padding:6px"><a href="http://htmledit.squarefree.com/">Coins In Water</a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding:6px"><strong>Downloads:</strong></td>
+        <td style="padding:6px">For instance <a href="https://raw.githubusercontent.com/auberginehill/emoji-table/master/emoji-table.html">emoji-table.html</a>. Or <a href="https://github.com/auberginehill/emoji-table/archive/master.zip">everything as a .zip-file</a>.</td>
+    </tr>
+</table>
+
+
+
 
 
 <img class='emoji' title='+1' alt='+1' height='28' width='28' align='absmiddle' src='https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png?v6'>
@@ -891,3 +943,5 @@ n = 888
 <img class='emoji' title='zap' alt='zap' height='28' width='28' align='absmiddle' src='https://assets-cdn.github.com/images/icons/emoji/unicode/26a1.png?v6'>
 <img class='emoji' title='zero' alt='zero' height='28' width='28' align='absmiddle' src='https://assets-cdn.github.com/images/icons/emoji/unicode/0030-20e3.png?v6'>
 <img class='emoji' title='zzz' alt='zzz' height='28' width='28' align='absmiddle' src='https://assets-cdn.github.com/images/icons/emoji/unicode/1f4a4.png?v6'>
+
+
